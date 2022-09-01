@@ -63,6 +63,7 @@ button {
 	bottom: 0;
 	transform: translateY(50%);
 	box-shadow: none;
+	transition: 0.4s;
 }
 
 button:hover {
